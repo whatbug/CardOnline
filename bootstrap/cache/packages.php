@@ -70,17 +70,6 @@
       0 => 'Carbon\\Laravel\\ServiceProvider',
     ),
   ),
-  'overtrue/laravel-wechat' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Overtrue\\LaravelWeChat\\ServiceProvider',
-    ),
-    'aliases' => 
-    array (
-      'EasyWeChat' => 'Overtrue\\LaravelWeChat\\Facade',
-    ),
-  ),
   'rap2hpoutre/laravel-log-viewer' => 
   array (
     'providers' => 
